@@ -1,7 +1,5 @@
 # Solana Copy Trading Bot (Fast Copy Trading in 0-1 Block)
 
-https://github.com/user-attachments/assets/3e5c7d40-217d-4c3c-aef9-224bc4878997
-
 ## Overview
 
 The Solana Copy Trading Bot enables real-time replication of target wallets’ transactions with remarkable efficiency, operating within a single blockchain block. This tool is designed for traders seeking to leverage the trading strategies of successful wallets swiftly.
