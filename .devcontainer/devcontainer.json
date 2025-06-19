@@ -1,0 +1,10 @@
+{
+  "name": "Solana Copy Bot",
+  "image": "mcr.microsoft.com/devcontainers/rust:1-oss",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:1": {}
+  },
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "remoteUser": "vscode",
+  "forwardPorts": [6000]
+}
