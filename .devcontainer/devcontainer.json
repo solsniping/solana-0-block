@@ -1,6 +1,6 @@
 {
   "name": "Solana Copy Bot",
-  "image": "mcr.microsoft.com/devcontainers/rust:1-oss",
+  "image": "mcr.microsoft.com/devcontainers/rust:latest",
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:1": {}
   },
